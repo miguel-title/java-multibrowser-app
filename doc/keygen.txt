@@ -1,0 +1,7 @@
+email:andrew@and1c.com
+password:gvdf@Ym2kxiG4aj
+
+account:a83313da-019b-44d2-939e-b0a4d85977f5
+
+token:admi-d02eff52d36a14b205fe3b6ddeb46bc5d20cd50caac7423f2c1e1f6e97a3ea3df9bae03bf3abbeaf6b8c77e3bed29bd8d0f5c0586588fb084153fbe8683cffv2
+tokenID:e5c18c5b-11a5-479e-bf54-effae4683d38
