@@ -1,0 +1,12 @@
+The database: H2
+    feature:
+        Very fast, open source, JDBC API
+        Embedded and server modes; disk-based or in-memory databases
+        Transaction support, multi-version concurrency
+        Browser based Console application
+        Encrypted databases
+        Fulltext search
+        Pure Java with small footprint: around 2 MB jar file size
+        ODBC driver
+        
+        *More information: https://h2databse.com
